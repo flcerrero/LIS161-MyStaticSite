@@ -20,17 +20,25 @@ I.	Structure or Site Map
 •	About
 
 •	Economy
+
 o	Schools
+
 o	Businesses
 
 •	Tourism
+
 o	Resorts
+
 o	Restaurants
+
 o	Malls
+
 o	Festivities
 
 •	Downloads
+
 o	Disclosure Report
+
 o	Forms
 
 •	Contact Us
