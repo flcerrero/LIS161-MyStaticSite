@@ -55,12 +55,19 @@ III.	Project Timeline
 
 Activities	Date
 Planning	Friday, September 1, 2017
+
 Development	Tuesday, September 12, 2017 to Saturday, September 23, 2017
+
 Documentation	Saturday, September 23, 2017
+
 Submission	Wednesday, September 27, 2017
 
 IV.	Source Codes
+
 •	HTML files
+
 •	Images
+
 •	CSS files
+
 •	Documentation
