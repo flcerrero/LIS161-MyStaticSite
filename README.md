@@ -9,29 +9,42 @@ Developer:
 Fzaira L. Cerrero
 0917-477-8442
 flcerrero@gmail.com
+
 Intended User/Client:
 Since this is a website of a locality, its primary client would be the local government of Tanza since they will be handling it and will be responsible of the contents and posts on the website. Its target audience and users are the locals of Tanza since it will serve as an extension of the physical bulletin board in the municipal hall as well as other people interested in visiting the town. The website contains a guide of tourist spots and destinations to explore while visiting Tanza.
+
 Site Design:
 I.	Structure or Site Map
 •	Home
+
 •	About
+
 •	Economy
 o	Schools
 o	Businesses
+
 •	Tourism
 o	Resorts
 o	Restaurants
 o	Malls
 o	Festivities
+
 •	Downloads
 o	Disclosure Report
 o	Forms
+
 •	Contact Us
+
 II.	References
+
 https://www.w3schools.com/
+
 http://getbootstrap.com/
+
 https://stackoverflow.com/
+
 III.	Project Timeline
+
 Activities	Date
 Planning	Friday, September 1, 2017
 Development	Tuesday, September 12, 2017 to Saturday, September 23, 2017
